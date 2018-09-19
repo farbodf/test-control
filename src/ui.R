@@ -4,7 +4,7 @@ library(dygraphs)
 library(plotly)
 library(shinydashboard)
 
-dashboard_header <- dashboardHeader(title="Testing")
+dashboard_header <- dashboardHeader(title="Test/Control")
 
 dashbaord_sidebar <- dashboardSidebar(
   sidebarMenu(

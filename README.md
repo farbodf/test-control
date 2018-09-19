@@ -1,6 +1,6 @@
 # Test/Control
 
-This repo contains an online dashboard example demonstrating the usage of R Shiny and A/B testing on a dummy dataset. It's available online [Here](https://farbod.shinyapps.io/test/).
+This repo contains an online dashboard example demonstrating the usage of R Shiny and A/B testing on a dummy dataset. It's available online [Here](https://farbod.shinyapps.io/testcontrol/).
 
 ## Dataset description
 
@@ -20,5 +20,5 @@ In order to run this application yourself you need to install R and the required
 
 ```
 library(shiny)
-runapp(".")
+runApp("src")
 ```
