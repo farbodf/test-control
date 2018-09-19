@@ -1,0 +1,7 @@
+shiny
+xts
+data.table
+ggplot2
+dygraphs
+plotly
+shinydashboard
